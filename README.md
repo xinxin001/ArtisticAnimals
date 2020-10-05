@@ -1,1 +1,1 @@
-# Storybook Generator
+# Artistic Animal Generator
