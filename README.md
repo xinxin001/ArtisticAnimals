@@ -2,3 +2,4 @@
 
 ## Progress Updates:
 - Deliverable 1: Data Selection Proposal
+- Deliverable 2
