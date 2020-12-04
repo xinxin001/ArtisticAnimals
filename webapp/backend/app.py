@@ -1,11 +1,12 @@
 from flask import Flask, render_template, request, send_file, jsonify
+from flask_cors import CORS
 import io
 from base64 import encodebytes
 # Import your models
 from dcgan import GAN_dog
 
 app = Flask(__name__)
-
+CORS(app)
 # Instantiate your models
 gan = GAN_dog()
 
