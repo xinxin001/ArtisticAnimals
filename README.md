@@ -4,9 +4,12 @@ Project with the aim of generating synthetic animal pictures using GAN and makin
 
 ![final output](final_output_sample.png)
 
-## How to run:
+## How to run kernel:
 1. Open the kernel (Gan_train.ipynb) on Google Colab
 2. Run all (make sure to use a GPU Runtime)
+
+## How to run the webapp:
+Refer to the README inside the webapp folder
 
 ## Progress Updates:
 Finished the dog generator, presently working on the style transfer
