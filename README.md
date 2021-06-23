@@ -1,7 +1,7 @@
 # Artistic Animal Generator
 
 Project with the aim of generating synthetic animal pictures using GAN and making them look like works of art using style transfer
-
+[Blog](/artisticanimals) | [Demo](https://xinxin001.github.io/ArtisticAnimalsWebApp/)
 ![final output](final_output_sample.png)
 
 ## How to run kernel:
